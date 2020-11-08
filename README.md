@@ -8,4 +8,4 @@ The Axial Polymer BAC-Adapter converts modern surface mount polymers into a vint
 
 The size of this design is 53.4 x 13.1 mm and can hold 4 10x10.5 mm surface mount capacitors. It should fit in a VIC-20 and Commodore 64. (Still need to test.)
 
-Boards are currently being manufacturered.
+Tested boards came back (and are beautiful). They work well.
