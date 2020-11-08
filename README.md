@@ -1,3 +1,5 @@
+![axial capacitor adapter rendered with KiCad](https://github.com/baldengineer/Axial-Polymer-BAC-Adapter/blob/master/images/Axial%20BAC%20Adapter.png)
+## KiCad Design files for Axial Polymer BAC Adapter
 Vintage computers, video game systems, and electronics tend to use very large decoupling capacitors. You can find them next to linear regulators, like the venrable LM7805. Often if the cap is more than 1,000 uF, it is an axial form factor.
 
 Axial form factor means the leads or electrodes come out of the "top" and "bottom" of the capacitor, allowing it to be laid-down on the PCB. This reduces the height.
@@ -8,4 +10,7 @@ The Axial Polymer BAC-Adapter converts modern surface mount polymers into a vint
 
 The size of this design is 53.4 x 13.1 mm and can hold 4 10x10.5 mm surface mount capacitors. It should fit in a VIC-20 and Commodore 64. (Still need to test.)
 
-Tested boards came back (and are beautiful). They work well.
+Tested boards came back (and are beautiful). They work well!
+
+## Bald Engineer on Twitch
+This board was designed, built, and tested live with the Bald Engineer. Check out his electronics live stream at: https://twitch.tv/baldengineer.
